@@ -1,0 +1,4 @@
+#!/bin/bash
+grep -iA 3 'rot' /etc/passwd
+
+
