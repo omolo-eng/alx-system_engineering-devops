@@ -1,0 +1,51 @@
+about |
+gitlab
+|
+report an issue |
+reset
+|
+twitter
+| contact
+You Won the CHALLENGE!
+^____^ | ¯\_(1)_/¯¯ | ©_ (60)(3)
+You are officially a command line master, great job!
+#Print "hello world".
+#Hint: There are many ways to print text on
+#the command line, one way is with the 'echo'
+#command.
+#
+# Try it below and good luck!
+#
+bash (0) >
+~~ See user submitted solutions for this challenge
+Challenges
+hello_world/
+delete_files/
+remove_extensions_from_files/
+current_working_directory/
+count files/
+replace_spaces_in_filenames/
+list_files/
+simple_sort/
+dirs_containing_files_with_extension/
+print_file_contents/
+count_string_in_line/
+files_starting_with_a_number/
+last_lines/
+split_on_a_char/
+print_nth_line/
+find_string_in_a_file/
+print_number_sequence/
+reverse_readme/
+search_for_files_containing_string/
+remove_files_with_extension/
+remove_duplicate_lines/
+search_for_files_by_extension/
+replace_text_in_files/
+disp_table/
+search_for_string_in_files_recursive/
+sum_all_numbers/
+find_primes/
+extract_ip_addresses/
+just_the_files/
+corrupted_text/
